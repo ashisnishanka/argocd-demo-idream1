@@ -15,5 +15,5 @@ spec:
       containers:
       - name: my-container
         image: olakitanakinya/netflix
-        ports:
-        - containerPort: 4000
+        # ports:
+        # - containerPort: 4000
